@@ -1,0 +1,8 @@
+# Dep for OCR
+imutils
+editdistance==0.5.3
+matplotlib==3.0.3
+pandas==0.24.2
+Pillow==6.2.0
+scipy==1.2.1
+torch-baidu-ctc==0.3.0
